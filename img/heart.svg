@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916666 52.916666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="heart.svg"
+   inkscape:export-filename="/mnt/DATA/Politecnico/IV_Anno/Mathematics in Machine Learning/project/heart failure clinical records/img/heart.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2">
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4716">
+      <g
+         id="g4722">
+        <rect
+           transform="matrix(1,0,0.01257762,0.9999209,0,0)"
+           y="268.11603"
+           x="-16.842644"
+           height="29.749451"
+           width="51.075203"
+           id="rect4718"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6017766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           mask="none"
+           inkscape:connector-curvature="0"
+           id="path4720"
+           d="m 13.245284,273.33966 v 22.89058"
+           style="fill:none;stroke:#000009;stroke-width:1.51900005;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4724">
+      <g
+         id="g4730">
+        <rect
+           transform="matrix(1,0,0.01257762,0.9999209,0,0)"
+           y="268.11603"
+           x="-16.842644"
+           height="29.749451"
+           width="51.075203"
+           id="rect4726"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6017766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           mask="none"
+           inkscape:connector-curvature="0"
+           id="path4728"
+           d="m 13.245284,273.33966 v 22.89058"
+           style="fill:none;stroke:#000009;stroke-width:1.51900005;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-28.000653"
+     inkscape:cy="62.653561"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3724" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08334)">
+    <g
+       id="g4734"
+       transform="translate(-0.52773726,-6.9544008)"
+       inkscape:export-filename="/mnt/DATA/Politecnico/IV_Anno/Mathematics in Machine Learning/project/heart failure clinical records/img/g4734.png"
+       inkscape:export-xdpi="117.14835"
+       inkscape:export-ydpi="117.14835">
+      <path
+         transform="translate(13.754609,-18.115993)"
+         clip-path="none"
+         mask="url(#mask4724)"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4550"
+         d="m 13.231463,274.43166 c 0,0 -2.618934,-3.09405 -5.8194057,-2.97191 0,0 -2.428073,-0.26402 -4.4785919,1.72786 0,0 -2.39134657,2.0596 -1.96283937,5.86087 0,0 0.19351927,4.16067 3.20689257,8.00341 0,0 4.1744907,5.97146 8.9848274,8.90189"
+         style="fill:none;stroke:#7a0303;stroke-width:1.51109684;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         transform="translate(13.754609,-18.115993)"
+         clip-path="none"
+         mask="url(#mask4716)"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4550-6"
+         d="m 13.231463,274.43166 c 0,0 2.618931,-3.09405 5.819405,-2.97191 0,0 2.42807,-0.26402 4.478589,1.72786 0,0 2.391348,2.0596 1.96284,5.86087 0,0 -0.193516,4.16067 -3.206893,8.00341 0,0 -4.17449,5.97146 -8.984826,8.90189"
+         style="fill:none;stroke:#9c9999;stroke-width:1.51109684;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
